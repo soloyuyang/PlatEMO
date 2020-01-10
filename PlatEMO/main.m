@@ -1,4 +1,4 @@
-function main(varargin)
+function Global=main(varargin) %调整，不使用gui
 %main - The interface of PlatEMO.
 %
 %   main() displays the GUI of PlatEMO.
